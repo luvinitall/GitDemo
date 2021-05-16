@@ -24,3 +24,5 @@
 
 
 
+## Let's talk about Stashing
+- Stashing allows you to take some changes and put them away for possible use for a later point
