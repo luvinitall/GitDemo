@@ -21,7 +21,13 @@
     - Add some files, `git add` or `git rm`, or use the IDE
     - Talk about tracked/untracked vs staged vs committed.
     - Look at how to rewrite local history by removing the last commit when a mistake is made.
-
+## Part 2 - Branching
+- In addition to GitHub's ability to easily track changes to files and folders, at it's core, GitHub supports the ability to create code branches and supports working with branches in a way that encourages develpers to take advantage of this important paradigm.
+- *DEMO* 
+    - Create a new branch
+    - Commit a change and then push the changes up.
+    - Talk about fetching, pulling, pushing
+- Branches allow people to collaborate on work in progress without impeding work by others working on the main/master branch.  This allows for several features to be developed in parallel and only merged as they are ready.
 
 
 ## Let's talk about Stashing
