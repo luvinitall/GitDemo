@@ -5,6 +5,9 @@
 - We will go over some very basic Git commands and explore how to use different tools to invoke Git actions: Terminal, Source Control in VS Code, GitHub/GitHub Desktop
 - We will introduce the concept of Git Branches
 - At the end of the course, you should feel comfortable with cloning a repository and getting starting with collaborative development using Git and GitHub
+- New Bullet Point
+
+## New Section
 
 ## Part 1 - What is Git
 - At it's heart, Git is a program that runs on your Mac and is used to create repositories to record various snapshots of what happens within a repository.  It integrates with the Mac Terminal, and can be invoked using a set of various commands.  Opening up a terminal and type `git help` to see many of the commands you can execute.
