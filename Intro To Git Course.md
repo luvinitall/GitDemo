@@ -29,6 +29,10 @@
     - Talk about fetching, pulling, pushing
 - Branches allow people to collaborate on work in progress without impeding work by others working on the main/master branch.  This allows for several features to be developed in parallel and only merged as they are ready.
 
-
 ## Let's talk about Stashing
 - Stashing allows you to take some changes and put them away for possible use for a later point
+
+
+## Summary
+- This course probably needs some work, but hope it was helpful and that it at least provides a launchpad for you to start your Git Journey!  Happy Gitting
+
