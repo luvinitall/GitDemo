@@ -24,3 +24,6 @@
 
 
 
+
+## Summary
+- This course probably needs some work, but hope it was helpful and that it at least provides a launchpad for you to start your Git Journey!  Happy Gitting
